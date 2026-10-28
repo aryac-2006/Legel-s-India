@@ -1,0 +1,14 @@
+[
+ {"q": "How do I file a complaint about a defective product I bought?", "relevant": ["Consumer Protection Act, 2019|Section 35"]},
+ {"q": "What is the time limit for a consumer complaint?", "relevant": ["Consumer Protection Act, 2019|Section 69"]},
+ {"q": "Can I get a refund or replacement for faulty goods?", "relevant": ["Consumer Protection Act, 2019|Section 39"]},
+ {"q": "When is an agreement a valid contract?", "relevant": ["Indian Contract Act, 1872|Section 10"]},
+ {"q": "Compensation for breach of contract", "relevant": ["Indian Contract Act, 1872|Section 73", "Indian Contract Act, 1872|Section 74"]},
+ {"q": "Someone used my password to impersonate me online", "relevant": ["Information Technology Act, 2000|Section 66C", "Information Technology Act, 2000|Section 66D"]},
+ {"q": "What notice is needed to end a monthly tenancy?", "relevant": ["Transfer of Property Act, 1882|Section 106"]},
+ {"q": "Does a rent agreement for more than a year need registration?", "relevant": ["Registration Act, 1908|Section 17"]},
+ {"q": "Grounds for divorce under Hindu law", "relevant": ["Hindu Marriage Act, 1955|Section 13"]},
+ {"q": "My employer terminated me, is retrenchment compensation due?", "relevant": ["Industrial Disputes Act, 1947|Section 25F"]},
+ {"q": "Is the right to equality guaranteed?", "relevant": ["Constitution of India|Article 14"]},
+ {"q": "Who can apply to a magistrate for relief against domestic violence?", "relevant": ["Protection of Women from Domestic Violence Act, 2005|Section 12"]}
+]
