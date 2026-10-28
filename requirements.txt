@@ -1,0 +1,4 @@
+streamlit>=1.40
+pandas
+pypdf>=4.0
+reportlab
